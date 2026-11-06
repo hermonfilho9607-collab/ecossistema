@@ -96,8 +96,6 @@ h1, h2, h3 { margin: 0; text-wrap: balance; }
   margin-bottom: 20px;
   display: inline-flex; align-items: center; gap: 12px;
 }
-.eyebrow::before { content: ""; width: 28px; height: 1px; background: currentColor; opacity: .7; }
-.center .eyebrow::after { content: ""; width: 28px; height: 1px; background: currentColor; opacity: .7; }
 
 .display, .h2 { font-family: var(--font-display); font-weight: 400; letter-spacing: -.005em; color: var(--text); }
 .display { font-size: clamp(2.5rem, 5vw, 4.25rem); line-height: 1.04; margin-bottom: 28px; }
