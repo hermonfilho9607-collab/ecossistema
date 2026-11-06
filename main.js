@@ -170,7 +170,7 @@
     if (win) win.opener = null; else window.location.href = url;
 
     status.classList.add('is-success');
-    status.innerHTML = 'Abrimos o WhatsApp com sua aplicação pronta — é só tocar em <strong>enviar</strong>. ' +
+    status.innerHTML = 'Abrimos o WhatsApp com sua aplicação pronta. É só tocar em <strong>enviar</strong>. ' +
       `Não abriu? <a href="${url}" target="_blank" rel="noopener">Clique aqui</a>.`;
   });
 })();

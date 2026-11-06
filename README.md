@@ -1,4 +1,4 @@
-# Mentoria Multiplicador Empresarial — Site
+# Site da Mentoria Multiplicador Empresarial
 
 Landing page da Mentoria Multiplicador Empresarial, de Sérgio Pessoa.
 Site estático (HTML, CSS e JavaScript puros), sem dependências nem build.
